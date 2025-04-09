@@ -1,0 +1,3 @@
+[submodule "lib/shared-utils"]
+	path = lib/shared-utils
+	url = https://github.com/you/shared-utils.git
